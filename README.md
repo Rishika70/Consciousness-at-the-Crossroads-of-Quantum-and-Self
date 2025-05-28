@@ -1,7 +1,7 @@
 # 🌌 The Sacred: Consciousness at the Crossroads of Quantum and Self
 
 **Author**: Rishika Rai  
-**Category**: Interdisciplinary Research — Neuroscience | Quantum Physics | History of Ideas | Cognitive Science | Eastern Mysticism  
+**Category**: Interdisciplinary Research — Neuroscience | Quantum Physics | History of Ideas | Cognitive Science | Eastern Mysticism  | Western Philosophy
 **Format**: LaTeX → PDF  
 
 ---
