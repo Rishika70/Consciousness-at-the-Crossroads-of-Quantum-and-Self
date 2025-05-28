@@ -75,13 +75,3 @@ The bibliography draws from a wide intellectual tradition:
 Full references can be found in the [`main.tex`](./main.tex) file.
 
 ---
-
-## 📂 Repository Structure
-
-```bash
-├── main.tex                    # Main LaTeX manuscript
-├── sacred_consciousness.pdf   # Compiled PDF (final output)
-├── references.bib             # Bibliographic entries
-├── images/                    # Illustrative figures (optional)
-├── README.md                  # This file
-
